@@ -27,13 +27,6 @@ section#celular{
     left: 50%;
     transform: translate(-50%,-50%);
     background: transparent url('../imagens/frame-iphone.png') center center/contain no-repeat fixed;
-
-    /* Minha primeira escolha foi essa
-    width: 60vw;
-    height: 95vh;
-    */
-
-    /* Escolha - inicial - do professor: dimensões exatas da imagem do celular */
     width: 311px;
     height: 627px;
 }
